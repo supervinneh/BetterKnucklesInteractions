@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d11a38df22869624489ec47461d8a9f4, type: 3}
+  m_Name: GeneralStorage
+  m_EditorClassIdentifier: 
+  combiGesturesList:
+  - gesture: {fileID: 11400000, guid: a9efaa195074e054ca81e1200f15c263, type: 2}
+  - gesture: {fileID: 11400000, guid: f42a3298186417841abb07a6486c5ccf, type: 2}
+  - gesture: {fileID: 11400000, guid: f5b61759f74384148a55548f2dbe2d29, type: 2}
+  - gesture: {fileID: 11400000, guid: f900345ad4e20bd468a8ac6671e88d01, type: 2}
+  lhGesturesList:
+  - gesture: {fileID: 11400000, guid: e914352f6134e9a408d0d5699fe51f19, type: 2}
+  - gesture: {fileID: 11400000, guid: 461461f981254f94094dea84fddd7675, type: 2}
+  - gesture: {fileID: 11400000, guid: e5373f54f56e30e46b95804cd05800f4, type: 2}
+  - gesture: {fileID: 11400000, guid: 4f013b64a18124b4884293b484ed0525, type: 2}
+  rhGesturesList:
+  - gesture: {fileID: 11400000, guid: b27bb6f891b42c24caa86000366c9ecd, type: 2}
+  - gesture: {fileID: 11400000, guid: e7be50a3ce6723a4bb44d7b8880cdac8, type: 2}
+  - gesture: {fileID: 11400000, guid: bfd49ad48b3b6694e9b56dc8fb17d5b9, type: 2}
+  - gesture: {fileID: 11400000, guid: 83002cc305a612b4db6f0ba855e8020c, type: 2}
+  - gesture: {fileID: 11400000, guid: d820c939ec56f6242947702f3baa2876, type: 2}
+  - gesture: {fileID: 11400000, guid: 3b4ad59bd69b62648a9b311afff7368d, type: 2}

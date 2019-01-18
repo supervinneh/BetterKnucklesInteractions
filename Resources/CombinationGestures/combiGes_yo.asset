@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874b77259430d794cbd43576df624575, type: 3}
+  m_Name: combiGes_yo
+  m_EditorClassIdentifier: 
+  gestureIdentifier: yo
+  leftHandGesture: {fileID: 11400000, guid: 4f013b64a18124b4884293b484ed0525, type: 2}
+  rightHandGesture: {fileID: 11400000, guid: 3b4ad59bd69b62648a9b311afff7368d, type: 2}

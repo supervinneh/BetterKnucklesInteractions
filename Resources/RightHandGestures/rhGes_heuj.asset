@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2371c46829961d641aa43ef9629b1d0b, type: 3}
+  m_Name: rhGes_heuj
+  m_EditorClassIdentifier: 
+  gestureIdentifier: heuj
+  hand: 0
+  requiresClench: 0
+  fingerStates: 0000000000000000010000000100000001000000
+  ranges:
+  - {x: 0, y: 0.2}
+  - {x: 0, y: 0.5}
+  - {x: 0.65, y: 1}
+  - {x: 0.65, y: 1}
+  - {x: 0.65, y: 1}
