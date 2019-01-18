@@ -11,7 +11,7 @@ Designed to boost immersion.
 
 ### Improved input reading
 At the time of making this library the knuckles controllers had the floating point inputs of individual fingers hidden in 
-the endless stream of SteamVR code. This part is designed to make it easier to read out these values. (Shoutout and credits to [MayBeTall](https://github.com/MayBeTall/MayBeKnuckles) for putting in the basic work for gesture recognition.
+the endless stream of SteamVR code. This part is designed to make it easier to read out these values. (Shoutout and credits to [MayBeTall](https://github.com/MayBeTall/MayBeKnuckles) for putting in the basic work for gesture recognition).
 
 ### Gesture recognition
 I've made a tool which allows any user to easily create gestures and save them. In editor you can also couple these gestures to functionality in a Start-Update-Exit function based system.
