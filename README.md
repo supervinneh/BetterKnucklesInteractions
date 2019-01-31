@@ -22,3 +22,5 @@ Download and install SteamVR from the asset store.
 Download the contents of the repo and import them into the Assets folder of your project.
 Make sure the resources folder is correctly merged with the resources folder your own project has (if it has one)
 The folders contained in the resources folder should be in the root of the resources folder.
+
+The knuckles controllers require the SteamVR beta (downloaded from Steam) as of January 2019.
