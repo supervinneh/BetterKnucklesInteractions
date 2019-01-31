@@ -15,3 +15,10 @@ the endless stream of SteamVR code. This part is designed to make it easier to r
 
 ### Gesture recognition
 I've made a tool which allows any user to easily create gestures and save them. In editor you can also couple these gestures to functionality in a Start-Update-Exit function based system.
+
+### How to install
+Download and install SteamVR from the asset store.
+#### The library will NOT work without it.
+Download the contents of the repo and import them into the Assets folder of your project.
+Make sure the resources folder is correctly merged with the resources folder your own project has (if it has one)
+The folders contained in the resources folder should be in the root of the resources folder.
